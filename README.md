@@ -1,0 +1,2 @@
+# SomeTools
+一些使用ai或者也有手动修改的一些Windows小工具
